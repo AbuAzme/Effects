@@ -1,7 +1,7 @@
-# AbuAzme TV Effects
+# AbuAzme TV Effects with Points
 
-Guide to use AbuAzmeTV's special Effects on Live Stream!
-
+<h2>Guide to AbuAzmeTV's special Effects on Live Stream using Points. </h2>
+"Check your how many points you have before start using the effects"
 
 <h3> Sound Effects </h3>
 
@@ -17,7 +17,7 @@ Guide to use AbuAzmeTV's special Effects on Live Stream!
 | !fukher | 99 | FokherRightNaPusy
 
 
-<h3>Video Effects<h3>
+<h3>Video Effects</h3>
 
 | Command  | Effect | Cost (points) |
 |---|---|---|
@@ -33,13 +33,14 @@ Guide to use AbuAzmeTV's special Effects on Live Stream!
 
 
 
-<h3>AbuAzme's Spical Effects (Subscribers Only)<h3>
+<h3>AbuAzme's Spical Effects (Subscribers Only)</h3>
 
 | Command  | Effect | Cost | 
 |---|---|---|
 | !enemy? | 100 | LVL3 AbuAzme: Wheres the Enemy? |
 
 
+<h2>More Effects will Added every day !<h2>
 
 
   
