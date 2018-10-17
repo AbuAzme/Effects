@@ -3,6 +3,7 @@
 <h2>Guide to AbuAzmeTV's special Effects on Live Stream using Points. </h2>
 "Check your how many points you have before start using the effects"
 
+
 <h3> Sound Effects </h3>
 
 | Command | Cost (points) | Effect |
@@ -12,6 +13,8 @@
 | !mariocart | 30 | Mario Cart Countdown |   
 | !damn | 40 | Damn Son! |   
 | !dramatic | 50 | Dramatic Dum | 
+| !20th | 60 | 20th |
+| !sad | 70 | Sad Music |
 | !theone | 80 | IAM THE ONE |
 | !talala | 90 | You touch my talala |
 | !fukher | 99 | FokherRightNaPusy
@@ -19,7 +22,7 @@
 
 <h3>Video Effects</h3>
 
-| Command  | Effect | Cost (points) |
+| Command | Cost (points) | Effect |
 |---|---|---|
 | !travolta | 100 | John Travolta WTF | 
 | !boom | 110 |  Big Expolsive |  
@@ -29,8 +32,6 @@
 | !wasted | 150 | GTA Wasted | 
 | !illumi | 160 | Illuminati Confirmed ! |
 | !freddy | 999 | Scary Freddy Face |
-
-
 
 
 <h3>AbuAzme's Spical Effects (Subscribers Only)</h3>
