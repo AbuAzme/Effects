@@ -31,6 +31,7 @@
 | !yolo | 140 | YOLO | 
 | !wasted | 150 | GTA Wasted | 
 | !illumi | 160 | Illuminati Confirmed ! |
+| !water | 170 | Water splash the channel |
 | !freddy | 999 | Scary Freddy Face |
 
 
