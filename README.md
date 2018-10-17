@@ -3,7 +3,7 @@
 Guide to use AbuAzmeTV's special Effects on Live Stream!
 
 
-<h3> Sound Effects <h3>
+<h3> Sound Effects </h3>
 
 | Command | Cost (points) | Effect |
 |---|---|---|
