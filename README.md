@@ -31,7 +31,7 @@ Video Effects
 
 AbuAzme's Spical Effects (Subscribers Only)
 
-  | Command  | Effect | Cost | Availability |
+| Command  | Effect | Cost | Availability |
 |---|---|---|---|
 |  !boom | Big Expolsive |   |   |
 |  !snoop | Snoop Dog dance  |   |   |
