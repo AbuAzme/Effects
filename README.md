@@ -36,7 +36,7 @@
 | !freddy | 999 | Scary Freddy Face |
 
 
-<h3>AbuAzme's Spical Effects (Subscribers Only)</h3>
+<h3>AbuAzme's Speical Effects (Subscribers Only)</h3>
 
 | Command | Cost(points) | Effect |  
 |---|---|---|
