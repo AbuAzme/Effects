@@ -1,7 +1,7 @@
 # AbuAzme TV Effects with Points
 
 <h2>Guide to AbuAzmeTV's special Effects on Live Stream using Points. </h2>
-"Check your how many points you have before start using the effects"
+"Check how many points you have before start using the effects"
 
 
 <h3> Sound Effects </h3>
