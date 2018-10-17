@@ -1,40 +1,45 @@
 # AbuAzme TV Effects
 
-Guide to use AbuAzmeTV's special Effects on stream!
+Guide to use AbuAzmeTV's special Effects on Live Stream!
 
-Sound Effects
 
-| Command | Cost | Effect |
+<h3> Sound Effects <h3>
+
+| Command | Cost (points) | Effect |
 |---|---|---|
-| !pan | 30 |PUBG Pan hit | 
-|   |   |   |   
-| !damn | 40 | "Damn Son!"  |   
-|   |   |   |   |
-| !talala | 100 | You touch my talala |
-|   |   |   |   |
-|   |   |   |   |
+| !pan | 10 |PUBG Pan hit |
+| !denied | 20 | Denied |
+| !mariocart | 30 | Mario Cart Countdown |   
+| !damn | 40 | Damn Son! |   
+| !dramatic | 50 | Dramatic Dum | 
+| !theone | 80 | IAM THE ONE |
+| !talala | 90 | You touch my talala |
+| !fukher | 99 | FokherRightNaPusy
 
 
+<h3>Video Effects<h3>
 
-Video Effects
-
-| Command  | Effect |  |
+| Command  | Effect | Cost (points) |
 |---|---|---|
-|  !boom | Big Expolsive | 120  |  
-|  !snoop | Snoop Dog dance | 130 |   
-|   |   |   |   |
-|  !wasted | GTA Wasted | 150 |
-|   |   |   |   |
+| !travolta | 100 | John Travolta WTF | 
+| !boom | 110 |  Big Expolsive |  
+| !funny | 120 | Funny laugh | 
+| !snoop | 130 | Snoop Dog dance |    
+| !yolo | 140 | YOLO | 
+| !wasted | 150 | GTA Wasted | 
+| !illumi | 160 | Illuminati Confirmed ! |
+| !freddy | 999 | Scary Freddy Face |
 
 
 
-AbuAzme's Spical Effects (Subscribers Only)
+
+<h3>AbuAzme's Spical Effects (Subscribers Only)<h3>
 
 | Command  | Effect | Cost | 
 |---|---|---|
+| !enemy? | 100 | LVL3 AbuAzme: Wheres the Enemy? |
 
-|  !snoop | Snoop Dog dance  |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
+
 
   
