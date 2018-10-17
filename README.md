@@ -38,7 +38,7 @@
 
 <h3>AbuAzme's Spical Effects (Subscribers Only)</h3>
 
-| Command  | Effect | Cost | 
+| Command | Cost(points) | Effect |  
 |---|---|---|
 | !enemy? | 100 | LVL3 AbuAzme: Wheres the Enemy? |
 
