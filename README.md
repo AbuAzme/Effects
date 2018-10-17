@@ -29,6 +29,7 @@
 | !funny | 120 | Funny laugh | 
 | !snoop | 130 | Snoop Dog dance |    
 | !yolo | 140 | YOLO | 
+| !panter |145 | Greate Panter |
 | !wasted | 150 | GTA Wasted | 
 | !illumi | 160 | Illuminati Confirmed ! |
 | !water | 170 | Water splash the channel |
