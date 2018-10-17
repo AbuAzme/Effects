@@ -4,11 +4,13 @@ Guide to use AbuAzmeTV's special Effects on stream!
 
 Sound Effects
 
-| Command  | Effect | Price |
-|---|---|---|---|
-|  !pan | PUBG Pan hit | 30 | 
-|  !damn | "Damn Son!"  | 40  |  
-| !dogs  |   |   |   |
+| Command | Cost | Effect |
+|---|---|---|
+| !pan | 30 |PUBG Pan hit | 
+|   |   |   |   
+| !damn | 40 | "Damn Son!"  |   
+|   |   |   |   |
+| !talala | 100 | You touch my talala |
 |   |   |   |   |
 |   |   |   |   |
 
@@ -16,31 +18,23 @@ Sound Effects
 
 Video Effects
 
-| Command  | Effect | Cost | Availability |
-|---|---|---|---|
-|  !boom | Big Expolsive | 100  |  
-|  !snoop | Snoop Dog dance | 100 |   
-|  !wasted | GTA Wasted | 250 |
+| Command  | Effect |  |
+|---|---|---|
+|  !boom | Big Expolsive | 120  |  
+|  !snoop | Snoop Dog dance | 130 |   
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+|  !wasted | GTA Wasted | 150 |
 |   |   |   |   |
 
 
 
 AbuAzme's Spical Effects (Subscribers Only)
 
-| Command  | Effect | Cost | Availability |
-|---|---|---|---|
-|  !boom | Big Expolsive |   |   |
+| Command  | Effect | Cost | 
+|---|---|---|
+
 |  !snoop | Snoop Dog dance  |   |   |
 |   |   |   |   |
 |   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
   
