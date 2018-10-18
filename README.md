@@ -6,6 +6,7 @@ Check how many Points you have before start using the effects by typing <b>!poin
 
 | Command | Cost (points) | Effect |
 |---|---|---|
+
 | !pan | 10 |PUBG Pan hit |
 | !denied | 20 | Denied |
 | !mariocart | 30 | Mario Cart Countdown |   
@@ -16,7 +17,7 @@ Check how many Points you have before start using the effects by typing <b>!poin
 | !theone | 80 | IAM THE ONE |
 | !talala | 90 | You touch my talala |
 | !fukher | 99 | FokherRightNaPusy |
-| <b>!Bday | 100 | <b>Happy Birthday Song |
+| <b>!bday | <b>100 | <b>Happy Birthday Song |
 
 
 <h3>Video Effects</h3>
