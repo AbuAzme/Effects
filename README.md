@@ -1,8 +1,6 @@
-# AbuAzme TV Effects with Points
+# AbuAzme TV Effects List 
 
-<h2>Guide to AbuAzmeTV's special Effects on Live Stream using Points. </h2>
-"Check how many points you have before start using the effects"
-
+Check how many Points you have before start using the effects by typing !points
 
 <h3> Sound Effects </h3>
 
@@ -44,6 +42,8 @@
 
 
 <h2>More Effects will Added every day !<h2>
+
+this Link Explain how you Gain Points: http://bit.ly/PointsSys
 
 
   
