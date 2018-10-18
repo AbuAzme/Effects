@@ -34,11 +34,11 @@ Check how many Points you have before start using the effects by typing <b>!poin
 | !freddy | 999 | Scary Freddy Face |
 
 
-<h3>AbuAzme's Speical Effects (Subscribers Only)</h3>
+<h3>AbuAzme's Speical Effects (Twitch Subscribers Only)</h3>
 
 | Command | Cost(points) | Effect |  
 |---|---|---|
-| !enemy? | 100 | LVL3 AbuAzme: Wheres the Enemy? |
+| !enemy? | 1000 | LVL3 AbuAzme: Wheres the Enemy? |
 
 
 <h2>More Effects will Added every day !<h2>
