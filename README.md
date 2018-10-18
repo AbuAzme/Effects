@@ -1,6 +1,6 @@
 # AbuAzme TV Effects List 
 
-Check how many Points you have before start using the effects by typing !points
+Check how many Points you have before start using the effects by typing !points in chat
 
 <h3> Sound Effects </h3>
 
