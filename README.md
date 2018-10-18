@@ -6,7 +6,6 @@ Check how many Points you have before start using the effects by typing <b>!poin
 
 | Command | Cost (points) | Effect |
 |---|---|---|
-
 | !pan | 10 |PUBG Pan hit |
 | !denied | 20 | Denied |
 | !mariocart | 30 | Mario Cart Countdown |   
