@@ -15,7 +15,8 @@ Check how many Points you have before start using the effects by typing <b>!poin
 | !sad | 70 | Sad Music |
 | !theone | 80 | IAM THE ONE |
 | !talala | 90 | You touch my talala |
-| !fukher | 99 | FokherRightNaPusy
+| !fukher | 99 | FokherRightNaPusy |
+| <b>!Bday | 100 | <b>Happy Birthday Song |
 
 
 <h3>Video Effects</h3>
