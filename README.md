@@ -6,9 +6,12 @@ Check how many Points you have before start using the effects by typing <b>!poin
 
 | Command | Cost (points) | Effect |
 |---|---|---|
+| !derp | 5 | derp |
 | !pan | 10 |PUBG Pan hit |
+| !21 | 15 | 21 |
 | !denied | 20 | Denied |
-| !mariocart | 30 | Mario Cart Countdown |   
+| !mariocart | 30 | Mario Cart Countdown |  
+| !nani | 35 | omae wa mou shindeiru nani ! |
 | !damn | 40 | Damn Son! |   
 | !dramatic | 50 | Dramatic Dum | 
 | !20th | 60 | 20th |
@@ -26,12 +29,14 @@ Check how many Points you have before start using the effects by typing <b>!poin
 | !travolta | 100 | John Travolta WTF | 
 | !boom | 110 |  Big Expolsive |  
 | !funny | 120 | Funny laugh | 
+| !hole | 125 | hole in the ground outta no where | 
 | !snoop | 130 | Snoop Dog dance |    
 | !yolo | 140 | YOLO | 
 | !panter |145 | Greate Banter |
 | !wasted | 150 | GTA Wasted | 
 | !illumi | 160 | Illuminati Confirmed ! |
 | !water | 170 | Water splash the channel |
+| !nosignal | 300 | No Singal TV |
 | !freddy | 999 | Scary Freddy Face |
 
 
