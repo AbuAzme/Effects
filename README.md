@@ -27,8 +27,9 @@ Check how many Points you have before start using the effects by typing <b>!poin
 | Command | Cost (points) | Effect |
 |---|---|---|
 | !travolta | 100 | John Travolta WTF | 
-| !money | 115 |  Make it Rain Money |
+| !matrix | 105 | the Matrix Codes |
 | !boom | 110 |  Big Expolsive |  
+| !money | 115 |  Make it Rain Money |
 | !funny | 120 | Funny laugh | 
 | !hole | 125 | hole in the ground outta no where | 
 | !snoop | 130 | Snoop Dog dance |    
